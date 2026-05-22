@@ -1,7 +1,6 @@
 
-# Generate package.json with all dependencies
-
-package_json = """{
+{
+  
   "name": "dispatchhive",
   "version": "0.1.0",
   "private": true,
