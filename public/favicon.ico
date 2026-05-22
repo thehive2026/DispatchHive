@@ -1,0 +1,10 @@
+
+# Generate public/favicon placeholder (just a note, not actual code)
+print("=" * 60)
+print("FILE 41: public/favicon.ico")
+print("=" * 60)
+print("NOTE: Create a simple favicon or use an online favicon generator.")
+print("For now, Next.js will use a default favicon.")
+print()
+print("You can generate one at: https://favicon.io/")
+print("Or use a simple truck emoji/icon.")
